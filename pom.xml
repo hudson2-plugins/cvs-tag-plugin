@@ -14,7 +14,7 @@
       <name>MIT</name>
     </license>
   </licenses>
-  <url>http://wiki.hudson-ci.org/display/JENKINS/CVS+Tagging+Plugin</url>
+  <url>http://wiki.hudson-ci.org/display/HUDSON/CVS+Tagging+Plugin</url>
 
   <dependencies>
       <dependency>
