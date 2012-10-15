@@ -28,7 +28,7 @@
   <scm>
     <connection>scm:git:git://github.com/hudson-plugins/cvs-tag-plugin.git</connection>
     <developerConnection>scm:git:git@github.com:hudson-plugins/cvs-tag-plugin.git</developerConnection>
-    <url>http://github.com/hudson-plugins/cvs-tag-plugin</url>
+    <url>https://github.com/hudson-plugins/cvs-tag-plugin</url>
   </scm>
 
   <developers>
