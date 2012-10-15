@@ -5,6 +5,7 @@
     <artifactId>hudson-plugin-parent</artifactId>
     <version>2.2.1</version>
   </parent>
+  <groupId>org.hudsonci.plugins<groupId>
   <artifactId>cvs-tag</artifactId>
   <name>Hudson CVS Tagging Plug-in</name>
   <packaging>hpi</packaging>
